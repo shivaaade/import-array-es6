@@ -1,5 +1,3 @@
-const val = function (a) {
-  return a;
-};
+let arr = ["countries", 190, "continents", 7, false, 6.2];
 
-export default val;
+export default arr;
